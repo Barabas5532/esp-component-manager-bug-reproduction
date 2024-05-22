@@ -16,6 +16,6 @@ dependencies:
       path: /home/barabas/source/esp-idf/examples/common_components/protocol_examples_common
       type: local
     version: '*'
-manifest_hash: 076e483be7a6fdcb4eaa33b61cd16a161584da87123c85d6a73da5620031a292
+manifest_hash: 57d5df99bdda3e0f7e4de5a3b6af9ba75f7572211dbdc0717e2ad37636e8cfaf
 target: esp32
 version: 1.0.0
